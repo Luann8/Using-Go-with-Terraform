@@ -32,3 +32,14 @@ resource "null_resource" "run_go_code" {
     input = "input_value"
   }
 }
+```hcl
+
+
+### 2. Custom Plugins
+You can create custom plugins in Go to extend Terraform's functionalities. Custom plugins allow adding new providers, resources, and features to Terraform.
+
+### 3. Go Resources in Terraform
+You can use Go resources directly in your Terraform configurations. This is useful for creating custom resources that are not available natively in Terraform.
+
+### 4. Go Modules
+You can create custom Go modules to encapsulate specific and reusable functionalities. Go modules can be integrated into your Terraform configurations to simplify infrastructure management.
