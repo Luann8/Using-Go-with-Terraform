@@ -32,9 +32,8 @@ resource "null_resource" "run_go_code" {
     input = "input_value"
   }
 }
-```hcl
 
-
+```
 ### 2. Custom Plugins
 You can create custom plugins in Go to extend Terraform's functionalities. Custom plugins allow adding new providers, resources, and features to Terraform.
 
