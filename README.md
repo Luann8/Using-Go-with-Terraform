@@ -43,4 +43,4 @@ You can use Go resources directly in your Terraform configurations. This is usef
 ### 4. Go Modules
 You can create custom Go modules to encapsulate specific and reusable functionalities. Go modules can be integrated into your Terraform configurations to simplify infrastructure management.
 
-<img url="https://th.bing.com/th/id/OIP.i97RQqG7uejgTX9wpel3ywHaDZ?w=1080&h=495&rs=1&pid=ImgDetMain">
+<img url="https://github.com/Luann8/Using-Go-with-Terraform/blob/main/OIP.jpg?raw=true">
